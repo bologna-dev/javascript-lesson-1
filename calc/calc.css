@@ -1,0 +1,19 @@
+#container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+#calc_input_container {
+    margin: 20px;
+}
+#calc_button {
+    margin-left: 15px;
+}
+#calc_output_container {
+    display: flex;
+    margin:20px;
+}
+#calc_output {
+    width: 250px;
+    padding-left: 5px;
+}
